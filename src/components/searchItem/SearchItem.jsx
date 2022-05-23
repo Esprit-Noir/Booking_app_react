@@ -9,7 +9,7 @@ const SearchItem = () => {
                 <span className="siDistance">500m from center</span>
                 <span className="siTaxiOp">Free airport Taxi</span>
                 <span className="siSubTitle">Studio Apartment with Air conditioning</span>
-                <span className="siFeatures">Entire studio . 1 bathroom . 21m2 1 full bed</span>
+                <span className="siFeatures">Entire studio . 1 bathroom . 21m<sup>2</sup> 1 full bed</span>
                 <span className="siCancelOp">Free cancellation</span>
                 <div className="siCancelOpSubtitle">
                     You can cancel later, so lock in this great price today!
